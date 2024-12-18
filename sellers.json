@@ -5,38 +5,24 @@
   "identifiers": [],
 {
       "sellers":
-
     [
-
     {
       "seller_id": "759551",
       "name": "Xiaomi",
       "domain": "xiaomi.com",
       "seller_type": "PUBLISHER"
     },
-
     {     
-
       "seller_id": "eda545ce",     
-
       "name": "Loop TV",     
-
       "domain": "loop.tv",     
-
       "seller_type": "PUBLISHER"   
-
     },
-
     {     
-
       "seller_id": "8ab8bb19",     
-
       "name": "Retail Media TV",     
-
       "domain": "retailmedia.tv",     
-
       "seller_type": "PUBLISHER"   
-
     },
     {
       "seller_id": "e62fddaf",
@@ -44,126 +30,78 @@
       "domain": "space-mob.com",
       "seller_type": "PUBLISHER"
     },
-
     {     
-
       "seller_id": "1fb866ac",     
-
       "name": "AnswerMedia",     
-
       "domain": "answermedia.com",     
-
       "seller_type": "PUBLISHER"   
-
     },
-
     {     
-
       "seller_id": "765736",     
-
       "name": "TVSourcer",     
-
       "domain": "tvsourcer.com",     
-
       "seller_type": "PUBLISHER"   
-
     },
-
     {     
-
       "seller_id": "751704",     
-
       "name": "Adviddo",     
-
       "domain": "adviddo.com",     
-
       "seller_type": "PUBLISHER"   
-
     },
-
     {     
-
       "seller_id": "c0f6ca78",     
-
       "name": "VizioAds",     
-
       "domain": "vizioads.com",     
-
       "seller_type": "PUBLISHER"   
-
     },
-
 ​    {     
       "seller_id": " 759554",     
       "name": "Pharoscode",     
       "domain": "Pharoscode.co",     
       "seller_type": "PUBLISHER"   
     },
-
     {     
-
       "seller_id": "44dce8b2,     
-
       "name": "FuboTv",     
-
       "domain": "fubo.tv",     
-
       "seller_type": "PUBLISHER"   
-
     },
-
     {     
-
       "seller_id": "b8fef058",     
-
       "name": "VlogBox",     
-
       "domain": "vlogbox.com",     
-
       "seller_type": "PUBLISHER"   
-
     },
-
     { 
-
       "seller_id": "765423",     
-
       "name": "SmartlineTV",
-
       "domain": "smartlinetv.com",
-
       "seller_type": "PUBLISHER"
-
     },
-
     {
       "seller_id": "764763",
       "name": "zepheere",
       "domain": "zepheere.com",
       "seller_type": "PUBLISHER"
     },
-
     {
      "seller_id": "773534",
      "name": "NewsMax",
      "domain": "newsmax.com",
      "seller_type": "PUBLISHER"
    },
-
     {
      "seller_id": "773532",
      "name": "Ottera",
      "domain": "ottera.tv",
      "seller_type": "PUBLISHER"
    },
-
     {
      "seller_id": "773533",
      "name": "DirectTV",
      "domain": "directtv.com",
      "seller_type": "PUBLISHER"
    },
-
     {
       "seller_id": "5beedd24",
       "name": "XEWORKS",
@@ -182,15 +120,13 @@
       "domain": "haxmediapartners.com",
       "seller_type": "INTERMEDIARY"
     },
-
     {
      "seller_id": "773534",
      "name": "OpenHorizonMedia",
      "domain": "openhorizonmedia.co",
      "seller_type": "INTERMEDIARY"
    },
-
-    {
+   {
      "seller_id": "770170",
      "name": "AdFerry",
      "domain": "adferry.co",
@@ -202,7 +138,6 @@
       "domain": "cue7ven.com",
       "seller_type": "INTERMEDIARY"
     },
-
     {
       "seller_id": "752033",
       "name": "kodio",
@@ -215,41 +150,35 @@
       "domain": "collectcent.com",
       "seller_type": "BOTH"
     },
-
     {
       "seller_id": "764953",
       "name": "Nobid",
       "domain": "nobid.io",
       "seller_type": "BOTH"
     },
-
     {
      "seller_id": "772498",
      "name": "Loopme",
      "domain": "loopme.com",
      "seller_type": "INTERMEDIARY"
    },
-
     {
       "seller_id": "765603",
       "name": "Clipmeup",
       "domain": "climpmeup.com",
       "seller_type": "PUBLISHER"
     },
-
     {
       "seller_id": "765199",
       "name": "iqzone",
       "domain": "iqzone.com",
       "seller_type": "BOTH"
     },
-
     {
       "name": "NBD59",
       "seller_id": "764953",
       "seller_type": "INTERMEDIARY",
       "domains":
-
     [
       "fandom.com",
       "webmd.com",
@@ -378,19 +307,16 @@
       "frommers.com"
     ]
     },
-
     {
       "name": "IQN925",
       "seller_id": "765199",
       "seller_type": "INTERMEDIARY",
       "domains":
-
     [
       "tripadvisor.com",
       "nytimes.com",
       "clevelandclinic.org",
       "my.clevelandclinic.org",
-
       "bbc.com",
       "healthiersteps.com",
       "accuweather.com",
@@ -459,7 +385,6 @@
       "newyorker.com",
       "harpersbazaar.com",
       "thehill.com",
-
       "ebay.ca",
       "cntraveler.com",
       "teenvogue.com",
@@ -564,7 +489,6 @@
       "glamourmagazine.co.uk",
       "mychicagosteak.com",
       "geo.tv",
-
       "globalnews.ca"",
       "gemsociety.org",
       "indianarunner.proboards.com",
@@ -598,9 +522,7 @@
       "us.ourtime.com",
       "edmonton.ctvnews.ca",
       "fifteenspatulas.com",
-
     ]
-
     },
     {
     ]
