@@ -1,4 +1,4 @@
-export function get_sellers(request) {
+get_sellers(request) {
     const sellersJson = {
         "contact_email": "support@vandelay-media.com",
         "contact_address": "429 Lenox Avenue, Miami Beach, FL 33139, United States",
