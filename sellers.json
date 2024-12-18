@@ -13,17 +13,17 @@
 "seller_type": "PUBLISHER"
 },
 {     
-      "seller_id": "eda545ce",     
-      "name": "Loop TV",     
-      "domain": "loop.tv",     
-      "seller_type": "PUBLISHER"   
-    },
-    {     
-      "seller_id": "8ab8bb19",     
-      "name": "Retail Media TV",     
-      "domain": "retailmedia.tv",     
-      "seller_type": "PUBLISHER"   
-    },
+"seller_id": "eda545ce",     
+"name": "Loop TV",     
+"domain": "loop.tv",     
+"seller_type": "PUBLISHER"   
+},
+{     
+"seller_id": "8ab8bb19",     
+"name": "Retail Media TV",     
+"domain": "retailmedia.tv",     
+"seller_type": "PUBLISHER"   
+},
     {
       "seller_id": "e62fddaf",
       "name": "SpaceMob",
